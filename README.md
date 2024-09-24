@@ -19,6 +19,6 @@
   ------------------------------------------------------------------------------------------------------------------------
 
 
-  **A resposta ao item 14 do Desafio está iclusa dentro do relatório**
+  **A resposta ao item 14 do Desafio está inserida dentro do relatório**
   
   ![Captura de tela 2024-09-24 193125](https://github.com/user-attachments/assets/61cde27a-5c2d-4b6e-a9f0-53b66f4e5dfc)
